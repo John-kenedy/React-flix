@@ -1,0 +1,24 @@
+// 🎨 ======== CORES DO SISTEMA ========
+
+// Cores principais
+$primary-color: #e50914;        // Vermelho principal (Netflix)
+$secondary-color: #f40612;      // Vermelho secundário (hover, gradiente)
+
+// Fundo e superfícies
+$background-color: #141414;     // Fundo principal do site
+$card-bg-color: #1c1c1c;        // Fundo de cards e containers
+
+// Texto
+$text-color: #ffffff;           // Cor principal do texto
+$text-muted: #888888;           // Cor de texto secundário (ex: ".read-the-docs")
+
+// Bordas e sombras
+$border-color: #e50914;
+$shadow-color: rgba(0, 0, 0, 0.5);
+
+// Gradiente especial usado no título
+$netflix-gradient: linear-gradient(90deg, $primary-color, $secondary-color, $primary-color);
+
+// ======== FONTES ========
+$font-primary: 'Bebas Neue', sans-serif;
+$font-title: 'Anton', sans-serif;
